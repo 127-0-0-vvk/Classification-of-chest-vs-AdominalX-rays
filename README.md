@@ -3,7 +3,7 @@
 
 ## I'm a Student, Self-thought Developer!
 
-- 🔭 I’m currently working on a Learning React[website]!
+- 🔭 I’m currently working on a Learning React
 - 🌱 I’m currently learning everything on Front-End 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
