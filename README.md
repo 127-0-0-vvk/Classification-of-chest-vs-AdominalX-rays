@@ -1,7 +1,7 @@
 ### Hi there, I'm Vivek 👋
 
 
-## I'm a Student, Self-thought Developer!
+## I'm a Student, Self-thought Web Developer!
 
 - 🔭 I’m currently working on a Learning React
 - 🌱 I’m currently learning everything on Front-End 🤣
