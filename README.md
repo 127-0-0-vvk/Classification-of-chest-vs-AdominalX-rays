@@ -3,11 +3,11 @@
 
 ## I'm a Student, Self-thought Web Developer!
 
-- 🔭 I’m currently working on a Learning React
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning everything on Front-End 🤣
 - 👯 Open to Work
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and Film documentary
+
 
 
 ### Connect with me:
