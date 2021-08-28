@@ -1,12 +1,11 @@
 ### Hi there, I'm Vivek 👋
 
 
-## I'm a Student, Self-thought Web Developer!
+## I'm a Student!
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning everything on Front-End 🤣
+- 🔭 I’m currently working on CyberArk
 - 👯 Open to Work
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects, get into a real time projects.
 
 
 
